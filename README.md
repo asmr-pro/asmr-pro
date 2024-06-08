@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-asmr-pro/asmr-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sayed mustafa hussaini/sayed mustafa huusaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
